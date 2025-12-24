@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qsol-invariants"
+version = "0.1.0"
+description = "Canonical QSOL invariant contract and evolution core."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+    { name = "QSol LLC", email = "contact@qsol.llc" }
+]
+
+keywords = [
+    "qsol",
+    "invariants",
+    "evolution",
+    "phi-bounded",
+    "deterministic",
+    "quantum-state",
+    "stability",
+]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Developers",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Software Development :: Libraries",
+]
+
+[project.urls]
+Homepage = "https://github.com/quantum-sol-thcs/qsol-invariants"
+Repository = "https://github.com/quantum-sol-thcs/qsol-invariants"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["qsol_invariants"]
