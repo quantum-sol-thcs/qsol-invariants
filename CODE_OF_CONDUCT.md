@@ -1,47 +1,44 @@
-# Contributing to qsol-invariants
+# Code of Conduct
 
-Thank you for your interest in contributing to the QSOL Invariant Evolution Core.
-This repository defines the canonical invariant contract for all QSol.llc systems.
-Because this module serves as a public standard, contributions must maintain
-mathematical clarity, determinism, and alignment with the Absolute Limits Contract.
+## ✦ Our Commitment
 
-## ✦ Contribution Guidelines
+The qsol-invariants project is part of the QSol.llc standards ecosystem.
+We are committed to maintaining a respectful, professional, and collaborative
+environment for all contributors and users.
 
-### 1. Preserve the Invariants
-All contributions must respect the following non‑negotiable rules:
+## ✦ Expected Behavior
 
-- State values must remain within `[0, 1]`
-- Convergence is defined strictly as `Δ = 0`
-- Evolution steps must remain PHI‑bounded
-- No hidden state or side effects
-- Deterministic, reproducible behavior only
+Participants are expected to:
 
-### 2. Keep the Core Minimal
-This repository is intentionally small and stable.  
-New features should only be added if they strengthen:
+- Treat others with respect  
+- Provide constructive feedback  
+- Focus on clarity, rigor, and shared goals  
+- Avoid personal attacks or disruptive behavior  
 
-- clarity  
-- determinism  
-- auditability  
-- mathematical rigor  
+## ✦ Unacceptable Behavior
 
-### 3. Code Style
-- Use clear, explicit Python  
-- Avoid unnecessary abstraction  
-- Prefer readability over cleverness  
-- Document invariants where relevant  
+The following are not tolerated:
 
-### 4. Submitting Changes
-1. Fork the repository  
-2. Create a feature branch  
-3. Ensure tests (if present) pass  
-4. Submit a pull request with a clear explanation  
+- Harassment or discrimination  
+- Aggressive or hostile communication  
+- Introducing intentionally harmful or deceptive code  
+- Attempts to subvert or violate the QSOL invariants  
 
-### 5. Discussion
-If you want to propose a conceptual change to the invariants or evolution rules,
-open an issue first so it can be discussed before implementation.
+## ✦ Reporting Issues
 
-## ✦ License
+If you experience or witness unacceptable behavior, please open an issue or
+contact the repository maintainers privately.
 
-By contributing, you agree that your contributions will be licensed under the
-Apache License 2.0, consistent with the rest of the project.
+## ✦ Enforcement
+
+Project maintainers may take appropriate action, including warnings or removal
+of contributions, to maintain a safe and productive environment.
+
+## ✦ Scope
+
+This Code of Conduct applies to all project spaces, including:
+
+- GitHub issues  
+- Pull requests  
+- Discussions  
+- Community interactions related to this repository  
