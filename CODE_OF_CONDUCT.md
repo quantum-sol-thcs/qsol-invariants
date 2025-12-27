@@ -1,44 +1,97 @@
-# Code of Conduct
+QSOL Code of Conduct
+Standards for Conduct, Collaboration, and Canonical Integrity
+Version: 1.0
+Status: Canonical
 
-## ✦ Our Commitment
+1. Purpose
+The QSOL Invariant Evolution Core is a public, standards‑grade repository.
+To maintain clarity, stability, and long‑term integrity, all contributors and maintainers must follow this Code of Conduct.
 
-The qsol-invariants project is part of the QSol.llc standards ecosystem.
-We are committed to maintaining a respectful, professional, and collaborative
-environment for all contributors and users.
+This document ensures that collaboration remains:
 
-## ✦ Expected Behavior
+respectful
 
-Participants are expected to:
+professional
 
-- Treat others with respect  
-- Provide constructive feedback  
-- Focus on clarity, rigor, and shared goals  
-- Avoid personal attacks or disruptive behavior  
+constructive
 
-## ✦ Unacceptable Behavior
+aligned with the QSOL Engineering Doctrine
 
-The following are not tolerated:
+2. Expected Behavior
+All contributors are expected to:
 
-- Harassment or discrimination  
-- Aggressive or hostile communication  
-- Introducing intentionally harmful or deceptive code  
-- Attempts to subvert or violate the QSOL invariants  
+Communicate with clarity, professionalism, and respect
 
-## ✦ Reporting Issues
+Focus on technical correctness and canonical alignment
 
-If you experience or witness unacceptable behavior, please open an issue or
-contact the repository maintainers privately.
+Provide constructive feedback grounded in the invariants and doctrine
 
-## ✦ Enforcement
+Maintain a collaborative, audit‑friendly environment
 
-Project maintainers may take appropriate action, including warnings or removal
-of contributions, to maintain a safe and productive environment.
+Uphold determinism, reproducibility, and mathematical rigor
 
-## ✦ Scope
+Contributions should strengthen the canon, not complicate it.
 
-This Code of Conduct applies to all project spaces, including:
+3. Unacceptable Behavior
+The following behaviors are not permitted:
 
-- GitHub issues  
-- Pull requests  
-- Discussions  
-- Community interactions related to this repository  
+Personal attacks, insults, or derogatory comments
+
+Disruptive or intentionally unproductive discussion
+
+Introducing complexity without justification
+
+Proposing changes that violate the Absolute Limits Contract
+
+Attempting to bypass deterministic or PHI‑bounded rules
+
+Submitting code that introduces hidden state, randomness, or side effects
+
+Any behavior that undermines the clarity, stability, or integrity of the invariant canon is unacceptable.
+
+4. Canonical Alignment Requirement
+All contributions must align with:
+
+the Absolute Limits Contract
+
+the PHI‑bounded Evolution Law
+
+the QSOL Engineering Doctrine
+
+the SESSION_VALIDITY specification (for ZK components)
+
+Changes that alter or weaken these foundations require prior discussion and explicit approval.
+
+5. Reporting Issues
+If you observe behavior that violates this Code of Conduct:
+
+Open an issue describing the concern, or
+
+Contact the maintainers privately if the matter is sensitive
+
+Reports will be reviewed promptly and professionally.
+
+6. Enforcement
+Maintainers may take any action they deem appropriate, including:
+
+Requesting clarification or correction
+
+Closing or rejecting pull requests
+
+Temporarily or permanently restricting participation
+
+Enforcement decisions are final and guided by the doctrine and the need to preserve canonical integrity.
+
+7. Scope
+This Code of Conduct applies to:
+
+all contributions
+
+all discussions
+
+all issues and pull requests
+
+all interactions within the QSOL ecosystem
+
+8. License
+By participating in this project, you agree that your contributions will be licensed under the Apache License 2.0, consistent with the rest of the repository.
