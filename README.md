@@ -1,3 +1,7 @@
+✦ QSOL INVARIANT EVOLUTION CORE ✦
+Canonical State Evolution • Deterministic Invariants • PHI‑Bounded Transform Engine
+A public standard of QSol.llc
+
 qsol‑invariants
 Canonical QSOL invariant contract and evolution core
 Deterministic, PHI‑bounded, audit‑ready state evolution for all QSol.llc  systems.
